@@ -1,0 +1,6 @@
+{
+  "name": "Taste of Korea - Bibimbap 15s Cinematic Story",
+  "description": "A 15-second 4K cinematic video journey into Korean Bibimbap with synchronized English narration, dynamic camera motion, and sensory sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
